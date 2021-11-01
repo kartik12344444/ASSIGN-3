@@ -1,0 +1,45 @@
+.feedback-form {
+  width: 100%;
+  min-height: 400px;
+  margin: 20px auto;
+  display: flex;
+  flex-direction: column;
+  align-content: space-between;
+
+}
+
+.feedback-form input {
+  border-radius: 20px;
+  border: 2px solid black;
+  height: 50px;
+  padding: 0px 10px;
+  margin: 10px;
+  background-color: #b5eaea;
+  margin-left: 60px;
+  
+}
+
+.feedback-form div {
+  margin: 10px;
+  
+}
+
+.feedback-form button {
+  width: 200px;
+  height: 55px;
+  border-radius: 20px;
+  border: 1px solid black;
+  background-color: #5bb458;
+  cursor: pointer;
+}
+.mystyle{
+  font-size: 25px;
+  margin-left: 0px;
+}
+.mystyle1{
+  font-size: 25px;
+  
+  
+}
+
+
